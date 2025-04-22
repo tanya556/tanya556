@@ -1,6 +1,6 @@
 #  Tanya's Profile
 
-![Tanya's Banner](https://github.com/user-attachments/assets/8d09bc25-ed31-4e4e-ab62-a5b2c4c2cafb)
+![Tanya's Banner](https://github.com/user-attachments/assets/002d880d-631e-448a-962b-5bd98a792856)
 
 I'm a Full Stack Developer with a strong focus on crafting performant, modern web applications using tools like Laravel, Next.js, and TypeScript.
 
