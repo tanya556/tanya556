@@ -1,9 +1,9 @@
 #  Tanya's Profile 
 <img align="right" src="https://komarev.com/ghpvc/?username=tanya556" alt="tanya" />
 
-![Tanya's Banner](https://github.com/user-attachments/assets/3258891e-4f96-4a0e-95e4-ec84dcff7345)
 
-I'm a Full Stack Developer with a strong focus on crafting performant, modern web applications using tools like Laravel, Next.js, and TypeScript.
+
+I'm a  Developer with a strong focus on crafting performant, web dev ,machine learning and NLP .
 
 ---
 
