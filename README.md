@@ -1,4 +1,5 @@
-#  Tanya's Profile
+#  Tanya's Profile 
+<img align="right" src="https://komarev.com/ghpvc/?username=tanya556" alt="tanya" />
 
 ![Tanya's Banner](https://github.com/user-attachments/assets/3258891e-4f96-4a0e-95e4-ec84dcff7345)
 
